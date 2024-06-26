@@ -8,6 +8,7 @@ Follow the next steps:
 - `npm start`
 - Tag your coach in your private channel and rend them a link to your `index.html` file
 
+
 Implement following the next description:
 - [English](./description/en.md)
 - [Ukrainian](./description/ua.md)
